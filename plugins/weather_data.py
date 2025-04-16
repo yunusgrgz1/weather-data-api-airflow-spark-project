@@ -8,7 +8,7 @@ logger = logging.getLogger('fetching_data_logger')
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # API Configuration
-api_key = "608965e55472c3c0eaa4109d6aec4bef"
+api_key = "YOUR_API_KEY"
 base_url = "https://api.openweathermap.org/data/3.0/onecall"
 
 
